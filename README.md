@@ -9,7 +9,7 @@
 # 機能一覧：<br />
 ・googleログイン機能（firebase）<br />
 ・リアルタイムアップデート（firebase onSnapshot()メソッド）<br />
-・メッセージの永続化（firebase firestore）<br />
+・データの永続化（firebase firestore）<br />
 ・ポイント獲得方法の削除と追加（firebase firestore）<br />
 ・ポイント使用方法の削除と追加（firebase firestore）<br />
 ・ポイント使用履歴、現在のポイント数の表示（firebase firestore）<br />
