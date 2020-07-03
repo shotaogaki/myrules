@@ -104,6 +104,7 @@ class Header extends Component {
 
     googleSignout = () => {
         firebase.auth().signOut();
+        window.location.reload(true);
     }
 
     renderLoginComponent = classes => {
